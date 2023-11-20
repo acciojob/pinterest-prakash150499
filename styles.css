@@ -5,9 +5,10 @@
 	justify-content:space-between;
 	width:100vw;
 }
-.image
+
+img
 {
-	width:50%;
+	width:80-%;
 	height:50%;
 	object-fit:cover;
 
@@ -20,5 +21,5 @@ button
 	}
 .left
 {
-	width:50%;
+	width:20%;
 }
